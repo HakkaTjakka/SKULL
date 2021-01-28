@@ -17,3 +17,10 @@ Using tiny_obj_loader.h for reading Wavefront .obj/.mtl files
 Voxelizer: https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/WUPPIE.CPP
 
 
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/voxel%20files.png)](https://www.youtube.com/watch?v=kiX0ziFujrE)
+(Click to play vid)
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/region%20files.png)](https://www.youtube.com/watch?v=C-qs36UcUCE)
+(Click to play vid)
+***
