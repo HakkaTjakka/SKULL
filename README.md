@@ -1,9 +1,19 @@
 # SKULL
  Minecraft world 1.12.2
 
-Made with https://github.com/HakkaTjakka/MinecraftWorldEditor in 4 hours 26 minutes
+Made with https://github.com/HakkaTjakka/MinecraftWorldEditor in 4 hours 26 minutes (while sleeping)
 611 region files
 8.17 GB
 
 Automated build from one Wavefront 3d object, converted to voxels, converted to 1.12.2 region files
-Command blocks below surface with multiple commands for effects like placing blocks/mobs domino style activated
+Command blocks below surface with multiple commands for effects like placing blocks/mobs domino style triggered on
+Karnaugh traject
+
+(Adapted/fasten) code from https://github.com/mingl0280/MCEditor for reading / writing .mca files very quickly (one second to load, 3 to recalc/write)
+(https://github.com/HakkaTjakka/MinecraftWorldEditor/tree/master/PACMAN_CUBERITE/src/MCEditor)
+
+Using tiny_obj_loader.h for reading Wavefront .obj/.mtl files
+
+Voxelizer: https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/WUPPIE.CPP
+
+
