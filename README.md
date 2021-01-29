@@ -1,3 +1,5 @@
+Turns out (especially on 1.14+) chunkloading is very slow. Possible causes: adding block light (only works in 1.12.2) to voxelized data, and/or hollow structures, filled with also blocks from neighbour objects). So working on getting the blocklight out, and filling up objects by determin face side of triangles (inside/outside object).
+
 # SKULL
  Minecraft world 1.12.2
 
