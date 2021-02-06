@@ -1,3 +1,18 @@
+Uploading region files (612)
+The world doesn't look that fantastic, but hey it works. Point is showing how to create (very) large worlds and/or lots of region files, and: That it works.
+Lights, glass, coral reef, hills, shore etc doesn't look that great, but you get the idea...
+This is where that happens (junkie trash coded...): https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/MCEditor/test.cpp#L6039
+
+Voxelizer:
+https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/viewer/viewer_my_loadobj.h#L2555
+https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/viewer/viewer_my_loadobj.h#L1867
+https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/WUPPIE.CPP#L1425
+(voxelizer core routines, use these for some product, made it myself!) Thanks for the mathematics on the web. Just like the code i grabbed from github.
+
+The whole world is to heavy for an ordinairy pc, windows, Minecraft, Java etc., but this will be fixed in the future....
+Point is to show how to generate enormous worlds from scratch, or based on 2d and/or 3d data.
+Program can also be used to scan whole worlds, to give data about it, and/or change things globally, move stuff, extract, insert etc. etc. (To be done...)
+
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/1612398576-p.png)](https://www.youtube.com/watch?v=M2jVaR8xDVY)
 (Click to play vid)
