@@ -3,6 +3,8 @@
 (Click to play vid)
 ***
 
+![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/r.10.24.png)
+
 Update: region files will be deleted, and new upload will start with:
 612 region files. Format 1.12.2. Skulls should be (almost) completely be filled up with blocks (solid).
 Aim of the game: Show how you can make complete minecraft worlds, from scratch (with c/c++ code), change original (1.12.2 format) region files /worlds, and:
