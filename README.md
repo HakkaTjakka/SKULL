@@ -1,4 +1,5 @@
-Uploading region files (612)
+Uploading region files (612) (done)
+
 The world doesn't look that fantastic, but hey it works. Point is showing how to create (very) large worlds and/or lots of region files, and: That it works.
 Lights, glass, coral reef, hills, shore etc doesn't look that great, but you get the idea...
 This is where that happens (junkie trash coded...): https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/MCEditor/test.cpp#L6039
