@@ -1,6 +1,15 @@
 Uploading region files (612) (done)
 
 Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the mtf'r now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
+![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/Untitled.jpg)
+
+I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
+The same will be done with the BOOM replo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
+Then you can just start the program, giving some parameters and or with a settings file, AND LARGE SCALE WORLDS ARE GENERATED.
+Eventually i want to do that with the BUILD THE EARTH 121 projections. So you can just give gps lat/lon coords, then the program will download 3d data from Google 3d Earth, voxelizes, and converts to BTE 121 projection. So you can voxelize whole cities with one click. For now its a whole manual you have to follow.
+If somebody wants to assist or step in, your welcome.
+
+In the end the program will be a multifunctional program to edit and create all sorts of worlds. Vanilla and/or cubic chunks 1.12.2 for now.
 
 The world doesn't look that fantastic, but hey it works. Point is showing how to create (very) large worlds and/or lots of region files, and: That it works.
 Lights, glass, coral reef, hills, shore etc doesn't look that great, but you get the idea...
