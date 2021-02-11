@@ -1,6 +1,6 @@
 Uploading region files (612) (done)
 
-Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the mtf'r now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
+Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the bastard now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/Untitled.jpg)
 
 I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
