@@ -4,7 +4,7 @@ Request: Please let me know if this level is playable, on what computer / versio
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/Untitled.jpg)
 
 I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
-The same will be done with the BOOM replo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
+The same will be done with the BOOM repo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
 Then you can just start the program, giving some parameters and or with a settings file, AND LARGE SCALE WORLDS ARE GENERATED.
 Eventually i want to do that with the BUILD THE EARTH 121 projections. So you can just give gps lat/lon coords, then the program will download 3d data from Google 3d Earth, voxelizes, and converts to BTE 121 projection. So you can voxelize whole cities with one click. For now its a whole manual you have to follow.
 If somebody wants to assist or step in, your welcome.
