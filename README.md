@@ -1,4 +1,7 @@
-Uploading region files (612)
+Uploading region files (612) (done)
+
+Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the mtf'r now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
+
 The world doesn't look that fantastic, but hey it works. Point is showing how to create (very) large worlds and/or lots of region files, and: That it works.
 Lights, glass, coral reef, hills, shore etc doesn't look that great, but you get the idea...
 This is where that happens (junkie trash coded...): https://github.com/HakkaTjakka/MinecraftWorldEditor/blob/master/PACMAN_CUBERITE/src/MCEditor/test.cpp#L6039
