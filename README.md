@@ -5,9 +5,6 @@ Uploading region files (612) (done)
 (Click to play vid)
 ***
 
-Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the bastard now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
-![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/Untitled.jpg)
-
 I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
 The same will be done with the BOOM repo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
 Then you can just start the program, giving some parameters and or with a settings file, AND LARGE SCALE WORLDS ARE GENERATED.
