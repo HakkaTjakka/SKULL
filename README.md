@@ -4,6 +4,9 @@ Uploading region files (612) (done)
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/2021-02-15_06.51.01.png)](https://www.youtube.com/watch?v=E6Ui3alJQrs)
 (Click to play vid)
 ***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/Untitled2.jpg)](https://www.youtube.com/watch?v=vq2qGqfn4c4)
+(Click to play vid)
+***
 
 I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
 The same will be done with the BOOM repo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
