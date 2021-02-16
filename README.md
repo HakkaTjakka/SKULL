@@ -1,6 +1,17 @@
 Uploading region files (612) (done)
 
-Request: Please let me know if this level is playable, on what computer / version / setting. I've tried everything, but the bastard loads very slow, and sometimes nothing shows up. I'm converting the mtf'r now to the Windows 10 Edition (Bedrock), its a c/c++ version of Minecraft. Mojang should learn how to program. Go back to school i would like them to tell. Tia.
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/2021-02-15_06.51.01.png)](https://www.youtube.com/watch?v=E6Ui3alJQrs)
+(Click to play vid)
+***
+
+I've addapted the Minecraft World Editor for the aquaworld so you CAN GENERATE IT YOURSELF (See repo).
+The same will be done with the BOOM repo with TNT tunnels, and this world, that is based on voxelizing one single 3d object multiple times.
+Then you can just start the program, giving some parameters and or with a settings file, AND LARGE SCALE WORLDS ARE GENERATED.
+Eventually i want to do that with the BUILD THE EARTH 121 projections. So you can just give gps lat/lon coords, then the program will download 3d data from Google 3d Earth, voxelizes, and converts to BTE 121 projection. So you can voxelize whole cities with one click. For now its a whole manual you have to follow.
+If somebody wants to assist or step in, your welcome. Because now its preliminary experimental prototype machine (just code in one big .exe), and it could be converted into a nice (commercial) version. Also need to port to the Linux platform (mingw c/c++, node.js, SFML etc.), because Windows sucks up 50% of my time. Also my head is full, and with more persons the "project" can be split up to concentrate on one part only. So if you want to be or become one of the owners of the code from Minecraft World Editor, your welcome. Don't be afraid if you have no expierence in whatshowever, any help and/or interest is welcome. Remember: The code is fast: region file loading/editing/generation/saving/voxelizing 3d stuff, conversion etc, like millions of voxels (blocks) per second. Sometimes even over hundred times as faster as the Minecraft ietself. Also working on own block renderer with fast shaders.
+
+In the end the program will be a multifunctional program to edit and create all sorts of worlds. Vanilla and/or cubic chunks 1.12.2 for now.
 
 The world doesn't look that fantastic, but hey it works. Point is showing how to create (very) large worlds and/or lots of region files, and: That it works.
 Lights, glass, coral reef, hills, shore etc doesn't look that great, but you get the idea...
