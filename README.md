@@ -1,5 +1,9 @@
 Adding mazes with rails. Uploaded when ready. (See screenshots at end)
 
+Ready. Uploading to:
+
+https://github.com/HakkaTjakka/SKULL-MAZE
+
 Uploading region files (612) (done)
 
 ***
